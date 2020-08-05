@@ -1,0 +1,16 @@
+{
+  "name": "onready",
+  "version": "1.0.0",
+  "description": "Realizar una prueba para ONREADY",
+  "main": "src/index.js",
+  "scripts": {
+    "onready": "node src/index.js"
+  },
+  "keywords": [
+    "objeto",
+    "modelo",
+    "marca"
+  ],
+  "author": "Carolina Salazar <cindy.s.r.28@hotmail.com>",
+  "license": "ISC"
+}
